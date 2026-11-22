@@ -1,0 +1,1434 @@
+{
+  "categories": [
+    {
+      "name": "Grocery",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-8dee/k2-_4d8c736f-c0c6-40d8-885a-fdc6764ed54f.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Grocery",
+      "id": "8rkBgWYFq34"
+    },
+    {
+      "name": "Restaurants",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-c7d0/k2-_301633b8-ad60-4d89-9368-9ac8ce327ada.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Restaurants",
+      "id": "oaFatb6WVsg"
+    },
+    {
+      "name": "Fashion",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-595f/k2-_ed26a6d1-2dfc-452c-9484-0a9c30b6437e.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Fashion",
+      "id": "l_u_GKmuf-Q"
+    },
+    {
+      "name": "Household",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-a8e7/k2-_1a20f5c9-5403-471c-844f-2b3c6ea8c7fe.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Household",
+      "id": "plOMdgGNIWo"
+    },
+    {
+      "name": "Beauty",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-a2d1/k2-_886dfdfd-7c5e-47a6-b09c-b2ea67c37518.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Beauty",
+      "id": "-EAUa54zfcY"
+    },
+    {
+      "name": "Tech",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-d7a2/k2-_3b290152-3ac8-4bf8-8373-90f8883c61a9.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Tech",
+      "id": "Sfwljpbjs18"
+    },
+    {
+      "name": "Toys",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-1126/k2-_273cf5cd-de68-49ca-9c98-122d62b4a6aa.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Toys",
+      "id": "3Ox_RrcUjvc"
+    },
+    {
+      "name": "Auto",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-634a/k2-_c65b27d6-3f73-4970-8a79-1b5940de8044.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Auto",
+      "id": "-hTfRDGqPMs"
+    },
+    {
+      "name": "Baby",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-f59a/k2-_4a3b879f-c751-45ef-aa01-2d54989bc1f2.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Baby",
+      "id": "7Lzur_rZX7g"
+    },
+    {
+      "name": "Wellness",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-f0f6/k2-_2cd20e69-b8c9-4073-ab9d-22ff7d4bdf6e.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Wellness",
+      "id": "JjJW4NAWu6A"
+    },
+    {
+      "name": "Pets",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-9f84/k2-_a79ef2bd-51b0-48a5-bf1b-fced95a3bef2.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Pets",
+      "id": "zyFSxReTaws"
+    },
+    {
+      "name": "Personal Care",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-782e/k2-_76127a83-fa6b-4fa6-b91b-59aad953243f.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Personal Care",
+      "id": "vmf1tueddWg"
+    },
+    {
+      "name": "Arts & Crafts",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-2cff/k2-_4f59767c-004c-451d-bbb3-396d636ef752.v1.jpg?odnHeight=200&odnWidth=200&odnBg=FFFFFF",
+      "alt": "Arts & Crafts",
+      "id": "-5onayiR0p4"
+    }
+  ],
+  "brands": [
+    {
+      "name": "GPK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdHtTKorIDjkGK8g7PTzblHjHsFi0SFUdf7eJoTvQO8fH8KcgcUOSv4M&s=10",
+      "alt": "GPK Logo",
+      "id": "7"
+    },
+    {
+      "name": "Sarzi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBRjwP4OTVzAzm8Mzyr69H6SXOAOS5-otANmVux_OoQ&s=10",
+      "alt": "Sarzi Logo",
+      "id": "8"
+    },
+    {
+      "name": "DeFacto",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHRIAgCXkk8UVCQXXrSO-eknMmmvhKlCzPb_cccXRMQ&s=10",
+      "alt": "DeFacto Logo",
+      "id": "9"
+    },
+    {
+      "name": "HISKA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIMsN1zwuJZtwz_9qRp5wQvZ0ldZhKaCdtHC_YBViAA&s=10",
+      "alt": "HISKA Logo",
+      "id": "10"
+    },
+    {
+      "name": "Firo Plus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVcBuDeXVdy1TbEyIKoRha0XlhtDomr1_eCxO3hafBw&s=10",
+      "alt": "Firo Plus Logo",
+      "id": "11"
+    },
+    {
+      "name": "Apollo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAV9fsTdqvFarkT0EutvsurejlHH6ibOcJyPgjS2NDZw&s=10",
+      "alt": "Apollo Logo",
+      "id": "12"
+    },
+    {
+      "name": "Callista",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEM9AuUw6nkkP6YoTGZv_V4EVJ_lgL25qji3Lmd9MgzQ&s=10",
+      "alt": "Callista Logo",
+      "id": "13"
+    },
+    {
+      "name": "Gold Collagen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxT9UvdgkU2-1JiIdek6fSRlY3hs4E4N9uFIFNaiHq6Q&s=10",
+      "alt": "Gold Collagen Logo",
+      "id": "14"
+    }
+  ],
+  "products": [
+    {
+      "title": "Wireless Earbuds",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0eedfb6d505bef9dfc8e0169b3bc1914a80aeba7_1790593771.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "alt": "Wireless Earbuds",
+      "badge": "Clearance",
+      "hasOption": "Option",
+      "price": "700.6",
+      "off": "10",
+      "deliveryBadge": "",
+      "video": "abc123",
+      "categoryId": "8rkBgWYFq34",
+      "brandId": null,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Nemo N36 Dual SIM Smartphone, 128GB Storage, 6GB RAM",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8351c52f361b7d18e1b9be0f09d8237bb889ffe3_1791356209.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Nemo N36 Dual SIM Smartphone, 128GB Storage, 6GB RAM",
+      "badge": "Rollback",
+      "hasOption": "Option",
+      "price": 377.4,
+      "off": 42.7,
+      "deliveryBadge": "Get as soon as 6 hours",
+      "video": "abc",
+      "categoryId": 1,
+      "brandId": 2
+    },
+    {
+      "id": "3",
+      "title": "IMIKI TG1 Smartwatch",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "alt": "IMIKI TG1 Smartwatch",
+      "badge": "Rollback",
+      "hasOption": "Add",
+      "price": 894.9,
+      "off": 28.4,
+      "deliveryBadge": "Get as soon as 2 hours",
+      "video": "abc",
+      "categoryId": 1,
+      "brandId": 3
+    },
+    {
+      "id": "4",
+      "title": "Rechargeable Water Flosser VR4149 with 4 Tips",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f574b244c0535243e5aec4a647d3191c366e6132_1791737467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "Rechargeable Water Flosser VR4149 with 4 Tips",
+      "badge": "Clearance",
+      "hasOption": "Option",
+      "price": 634.8,
+      "off": 37.1,
+      "deliveryBadge": "",
+      "video": "abc",
+      "categoryId": 2,
+      "brandId": 4
+    },
+    {
+      "id": "5",
+      "title": "LECO WS215DM Wireless Mouse",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "alt": "LECO WS215DM Wireless Mouse",
+      "badge": "Clearance",
+      "hasOption": "Add",
+      "price": 722.4,
+      "off": 6.8,
+      "deliveryBadge": "Get as soon as 5 hours",
+      "video": "abc",
+      "categoryId": 1,
+      "brandId": 5
+    },
+    {
+      "id": "6",
+      "title": "Apple iPhone 17 Pro Max, 256GB, 12GB RAM",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "alt": "Apple iPhone 17 Pro Max, 256GB, 12GB RAM",
+      "badge": "Rollback",
+      "hasOption": "Option",
+      "price": 99.97,
+      "off": 24.4,
+      "deliveryBadge": "Get as soon as 5 hours",
+      "video": "abc",
+      "categoryId": 1,
+      "brandId": 6
+    },
+    {
+      "id": "7",
+      "title": "Car Parking Phone Number Display",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/114593375.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80/format,webp",
+      "alt": "Car Parking Phone Number Display",
+      "badge": "Clearance",
+      "hasOption": "Option",
+      "price": 25.8,
+      "off": 27.2,
+      "deliveryBadge": "Get as soon as 5 hours",
+      "video": "abc",
+      "categoryId": 3,
+      "brandId": 7
+    },
+    {
+      "id": "8",
+      "title": "Apple MacBook Neo, A18 Pro, 8GB RAM, 256GB SSD, 13-inch Liquid Retina",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e23b53f685b4a850545cd550b4249c5316aec61f_1786538642.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Apple MacBook Neo, A18 Pro, 8GB RAM, 256GB SSD, 13-inch Liquid Retina",
+      "badge": "Clearance",
+      "hasOption": "Option",
+      "price": 390.8,
+      "off": 32.4,
+      "deliveryBadge": "Get as soon as 5 hours",
+      "video": "abc",
+      "categoryId": 4,
+      "brandId": 6
+    },
+    {
+      "id": "9",
+      "title": "Sarzi Men's Jacket BB-2024",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8b2999b36a69c7b078d0f08afedea0bb29a209b4_1787752385.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+      "alt": "Sarzi Men's Jacket BB-2024",
+      "badge": "Rollback",
+      "hasOption": "Option",
+      "price": 612.1,
+      "off": 25.1,
+      "deliveryBadge": "Get as soon as 5 hours",
+      "video": "abc",
+      "categoryId": 5,
+      "brandId": 8
+    },
+    {
+      "id": "10",
+      "title": "DeFacto Women's Knit Cardigan",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/27b1884f47d950c413c37d1d9f8839ebc256a5f1_1786885051.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+      "alt": "DeFacto Women's Knit Cardigan",
+      "badge": "Rollback",
+      "hasOption": "Add",
+      "price": 796.5,
+      "off": 47.6,
+      "deliveryBadge": "Get as soon as 4 hours",
+      "video": "abc",
+      "categoryId": 5,
+      "brandId": 9
+    },
+    {
+      "id": "11",
+      "title": "HISKA HR-46 Handheld Flashlight",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3d6d9fdc6176ffc4c19d999faf9edc0afca1e514_1766828032.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+      "alt": "HISKA HR-46 Handheld Flashlight",
+      "badge": "Rollback",
+      "hasOption": "Add",
+      "price": 582.3,
+      "off": 48.5,
+      "deliveryBadge": "Get as soon as 2 hours",
+      "video": "abc",
+      "categoryId": 6,
+      "brandId": 10
+    },
+    {
+      "id": "12",
+      "title": "Firo Plus Medium Picnic Bag FP305",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a13ba93d9b7337bac71602109cb27aaee655c36c_1793369108.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+      "alt": "Firo Plus Medium Picnic Bag FP305",
+      "badge": "Clearance",
+      "hasOption": "Add",
+      "price": 295.1,
+      "off": 23.4,
+      "deliveryBadge": "Get as soon as 6 hours",
+      "video": "abc",
+      "categoryId": 7,
+      "brandId": 11
+    },
+    {
+      "id": "14",
+      "title": "Callista Extend Volume Mascara",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6e9fc5f500d4cbe714825b963cb0305d291b73c3_1635866190.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "alt": "Callista Extend Volume Mascara",
+      "badge": "Reduced Price",
+      "hasOption": "Add",
+      "price": 130.2,
+      "off": 1.6,
+      "deliveryBadge": "Get as soon as 4 hours",
+      "video": "abc",
+      "categoryId": 8,
+      "brandId": 13
+    },
+    {
+      "id": "15",
+      "title": "Gold Collagen Tablets, 60 Count",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/90c07e84b57002e37cfa85dbab73eee17a3705f0_1782217196.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "alt": "Gold Collagen Tablets, 60 Count",
+      "badge": "Reduced Price",
+      "hasOption": "Add",
+      "price": 244,
+      "off": 30.5,
+      "deliveryBadge": "Get as soon as 1 hours",
+      "video": "abc",
+      "categoryId": 2,
+      "brandId": 14
+    },
+    {
+      "id": "16",
+      "title": "Daewoo DW-200S 14-Place Dishwasher",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4050090851797cd43fb813bb839b09ee0fc3f9f5_1753713508.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "alt": "Daewoo DW-200S 14-Place Dishwasher",
+      "badge": "Rollback",
+      "hasOption": "Add",
+      "price": 645.6,
+      "off": 45.1,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 9,
+      "brandId": 15
+    },
+    {
+      "id": "17",
+      "title": "Gosonic GFP-891 750W Multi-Function Food Processor",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/91ec94b5f755f2dd905a86c6e5d1a668ebaa34a5_1758478497.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "alt": "Gosonic GFP-891 750W Multi-Function Food Processor",
+      "badge": "Reduced Price",
+      "hasOption": "Add",
+      "price": 455.7,
+      "off": 28.1,
+      "deliveryBadge": "Get as soon as 1 hours",
+      "video": "abc",
+      "categoryId": 10,
+      "brandId": 16
+    },
+    {
+      "id": "18",
+      "title": "Daewoo DW-F0792 7kg Automatic Washing Machine",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/738bf6106729122218b4190b1528d99a0a805ec3_1787135884.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Daewoo DW-F0792 7kg Automatic Washing Machine",
+      "badge": "Rollback",
+      "hasOption": "Option",
+      "price": 752.7,
+      "off": 31,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 9,
+      "brandId": 15
+    },
+    {
+      "id": "19",
+      "title": "Daewoo 30 cu. ft. Side-by-Side Refrigerator Freezer",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6b7163f782679ad8448485b30e06a6a944bbae0b_1787751226.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Daewoo 30 cu. ft. Side-by-Side Refrigerator Freezer",
+      "badge": "Clearance",
+      "hasOption": "Option",
+      "price": 150.8,
+      "off": 31.2,
+      "deliveryBadge": "Get as soon as 1 hours",
+      "video": "abc",
+      "categoryId": 9,
+      "brandId": 15
+    },
+    {
+      "title": "Hisense H20MOBS15 20L Microwavvve",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2aa64487b1977400270087d3a38a704c1e2de32c_1757447719.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Hisense H20MOBS15 20L Microwave",
+      "badge": "Reduced Price",
+      "hasOption": "Add",
+      "price": 614.3,
+      "off": 19.8,
+      "deliveryBadge": "Get as soon as 6 hours",
+      "video": "abc",
+      "categoryId": 9,
+      "brandId": 17,
+      "id": "20"
+    },
+    {
+      "id": "21",
+      "title": "Prime C-Prime Fusion Water SPF 50 Sunscreen, 40ml",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1bc2c5e4376c5b2b39fa7ec8a680c17e60dbc9f4_1754248399.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "alt": "Prime C-Prime Fusion Water SPF 50 Sunscreen, 40ml",
+      "badge": "Reduced Price",
+      "hasOption": "Add",
+      "price": 427,
+      "off": 11,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 8,
+      "brandId": 18
+    },
+    {
+      "id": "22",
+      "title": "Calamine Collagen Bank Face & Neck Moisturizer, 125ml",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e50c784329c3786a59c1e0a0914e43c2695b3aed_1760871822.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+      "alt": "Calamine Collagen Bank Face & Neck Moisturizer, 125ml",
+      "badge": "",
+      "hasOption": "Add",
+      "price": 734.6,
+      "off": 35.6,
+      "deliveryBadge": "Get as soon as 4 hours",
+      "video": "abc",
+      "categoryId": 8,
+      "brandId": 19
+    },
+    {
+      "title": "KS Lift Up Eyebrow Gel, 10ml",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aad054ec98d51b97098cbfbace38e2e673e77b4e_1790411663.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+      "alt": "KS Lift Up Eyebrow Gel, 10ml",
+      "badge": "Rollback",
+      "hasOption": "Option",
+      "price": 241.7,
+      "off": 34.8,
+      "deliveryBadge": "Get as soon as 1 hours",
+      "video": "abc",
+      "categoryId": 8,
+      "brandId": null,
+      "id": "23"
+    },
+    {
+      "id": "24",
+      "title": "Marco Magic Cleaner Facial Microdermabrasion Device",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e0dae22a02709bddaccb8de9a466161b5726c0e3_1790095391.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "alt": "Marco Magic Cleaner Facial Microdermabrasion Device",
+      "badge": "Rollback",
+      "hasOption": "Option",
+      "price": 741.4,
+      "off": 23.1,
+      "deliveryBadge": "Get as soon as 6 hours",
+      "video": "abc",
+      "categoryId": 8,
+      "brandId": 21
+    },
+    {
+      "id": "25",
+      "title": "Gabrini Matte Setting Powder, Shade 01, 20g",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/63878cee0de7702a376993d058223acead3b5048_1789634842.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "alt": "Gabrini Matte Setting Powder, Shade 01, 20g",
+      "badge": "Rollback",
+      "hasOption": "Add",
+      "price": 308.1,
+      "off": 22.8,
+      "deliveryBadge": "Get as soon as 1 hours",
+      "video": "abc",
+      "categoryId": 8,
+      "brandId": 22
+    },
+    {
+      "id": "26",
+      "title": "Misswake X-13 Whitening Mint Toothpaste, 75ml",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/62e5361f77f96782c9293cce06c13c8057b26f8e_1785337843.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+      "alt": "Misswake X-13 Whitening Mint Toothpaste, 75ml",
+      "badge": "",
+      "hasOption": "Add",
+      "price": 621.7,
+      "off": 11.7,
+      "deliveryBadge": "Get as soon as 2 hours",
+      "video": "abc",
+      "categoryId": 2,
+      "brandId": 23
+    },
+    {
+      "id": "27",
+      "title": "Wireless Baby Video Monitor, 2-Piece Set",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/64fa108eb8cbc5d25851895d2e6f83ea8f029b40_1778648053.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "alt": "Wireless Baby Video Monitor, 2-Piece Set",
+      "badge": "Clearance",
+      "hasOption": "Option",
+      "price": 509.4,
+      "off": 41.8,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 11,
+      "brandId": 24
+    },
+    {
+      "id": "28",
+      "title": "Kids' Hooded Bathrobe Towel, 80cm",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/679b320a26c2e03b3934ffd8c8b38598fc31be24_1728905478.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "alt": "Kids' Hooded Bathrobe Towel, 80cm",
+      "badge": "Clearance",
+      "hasOption": "Add",
+      "price": 884.7,
+      "off": 38.9,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 11,
+      "brandId": 24
+    },
+    {
+      "id": "29",
+      "title": "Nilinland Anti-Reflux Baby Cradle",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ad60350a12ecd62ad59fb07d61ec53278d091b9f_1782037807.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Nilinland Anti-Reflux Baby Cradle",
+      "badge": "",
+      "hasOption": "Option",
+      "price": 836.8,
+      "off": 18.5,
+      "deliveryBadge": "Get as soon as 6 hours",
+      "video": "abc",
+      "categoryId": 11,
+      "brandId": 25
+    },
+    {
+      "id": "30",
+      "title": "Delijan Model 130 Baby Stroller",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cc940d4e70a4af250975fb4408d84867b425f2a9_1694590020.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Delijan Model 130 Baby Stroller",
+      "badge": "Reduced Price",
+      "hasOption": "Add",
+      "price": 95.06,
+      "off": 9.9,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 11,
+      "brandId": 26
+    },
+    {
+      "id": "31",
+      "title": "Topco 451 Two-Tier Kids' Lunch Box",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2e312275313c74fe4f7b2d88525e57a40d42584e_1786184273.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Topco 451 Two-Tier Kids' Lunch Box",
+      "badge": "",
+      "hasOption": "Option",
+      "price": 187.1,
+      "off": 22.8,
+      "deliveryBadge": "Get as soon as 6 hours",
+      "video": "abc",
+      "categoryId": 11,
+      "brandId": 27
+    },
+    {
+      "id": "32",
+      "title": "Wee Care Nappy Bags, 3 Packs of 24",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2455acca4097218ad50774c456d2154c5d210608_1752494471.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+      "alt": "Wee Care Nappy Bags, 3 Packs of 24",
+      "badge": "Reduced Price",
+      "hasOption": "Add",
+      "price": 340.5,
+      "off": 48.3,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 11,
+      "brandId": 28
+    },
+    {
+      "id": "33",
+      "title": "Panda Kids' Night Light",
+      "description": "",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/89590fc968b81b137f4da4938c67a54bf8c14dd5_1706000731.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "alt": "Panda Kids' Night Light",
+      "badge": "Reduced Price",
+      "hasOption": "Option",
+      "price": 260.9,
+      "off": 35.9,
+      "deliveryBadge": "Get as soon as 3 hours",
+      "video": "abc",
+      "categoryId": 11,
+      "brandId": 24
+    }
+  ],
+  "desktopBanners": [
+    {
+      "id": "1",
+      "name": "Desktop Banner Group 1",
+      "banners": [
+        {
+          "id": 1,
+          "name": "Left Banner",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-397e/k2-_ab0f6bbe-05e6-4527-b7ae-a314a8158efb.v1.jpg?odnHeight=1316&odnWidth=1316&odnBg=&odnDynImageQuality=70",
+          "smallTitle": " Big Savings\t",
+          "largeTitle": "Prices You’ll Love\t",
+          "linkText": "Shop Now",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 2,
+          "name": "GPK",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-40f7/k2-_3aa07706-f4ab-4315-8437-a7990c3ac06d.v1.jpg?odnHeight=292&odnWidth=512&odnBg=&odnDynImageQuality=70",
+          "smallTitle": " Weekly Deals\t\t",
+          "largeTitle": "More Savings Every Day",
+          "linkText": "Explore Deals",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 3,
+          "name": "Bottom Center Left",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-5e24/k2-_1d036a66-a473-443b-a2ce-bf5a2021f16e.v1.jpg?odnHeight=342&odnWidth=248&odnBg=&odnDynImageQuality=70",
+          "smallTitle": " Special Offer\t\t",
+          "largeTitle": "Deals You Can’t Miss",
+          "linkText": "See Offers",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 4,
+          "name": "Bottom Center Right",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-96df/k2-_ae623b6e-3418-4ab5-8f86-fafa17a9e77e.v1.jpg?odnHeight=684&odnWidth=496&odnBg=&odnDynImageQuality=70",
+          "smallTitle": " Rollback\t\t",
+          "largeTitle": "Great Prices, Every Day",
+          "linkText": "Shop now",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 5,
+          "name": "Right Banner",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-e4fc/k2-_bd2a98d3-e6b1-473b-9995-907630a1549d.v1.jpg?odnHeight=1316&odnWidth=770&odnBg=&odnDynImageQuality=70",
+          "smallTitle": " Tech Essentials\t",
+          "largeTitle": "Upgrade Your Everyday",
+          "linkText": "Shop Tech",
+          "linkUrl": "",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Desktop Banner Group 2",
+      "banners": [
+        {
+          "id": 6,
+          "name": "Left Banner",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-57e3/k2-_5e191423-9466-4d0a-8180-6298b5ee7a2d.v1.jpg",
+          "smallTitle": " Just Arrived\t",
+          "largeTitle": "Discover New Gadgets",
+          "linkText": "\tExplore Now",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 7,
+          "name": "Top Center",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-a184/k2-_147ed516-1ba8-4d7f-85e1-1afcbcf3b9f9.v1.jpg",
+          "smallTitle": " Smart Living\t\t",
+          "largeTitle": "Technology Made Simple",
+          "linkText": "Shop Now",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 8,
+          "name": "Bottom Center Left",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-9e2a/k2-_ef12949a-1d6c-4d1a-b1b9-c0261dad2ee4.v1.jpg",
+          "smallTitle": " Best in Tech\t\t",
+          "largeTitle": "Find Your Next Favorite",
+          "linkText": "Shop now",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 9,
+          "name": "Bottom Center Right",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-d1d4/k2-_497b3b65-90c5-4b02-b3db-df9e2b7dc3b5.v1.jpg",
+          "smallTitle": " Top Picks\t\t",
+          "largeTitle": "Power Up Your Setup",
+          "linkText": "Shop Electronics",
+          "linkUrl": "",
+          "status": "Active"
+        },
+        {
+          "id": 10,
+          "name": "Right Banner",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-d086/k2-_fb94d24e-426a-45b2-a671-d68fdfae8d36.v1.jpg",
+          "smallTitle": " Home Favorites\t\t",
+          "largeTitle": "Make Home Feel Special",
+          "linkText": "Shop Home",
+          "linkUrl": "",
+          "status": "Active"
+        }
+      ]
+    }
+  ],
+  "mobileSmallBanners": [
+    {
+      "id": "0",
+      "name": "Mobile Small Group 1",
+      "banners": [
+        {
+          "id": 0,
+          "name": "Left Banner",
+          "smallTitle": "Featured",
+          "largeTitle": "Save on everyday essentials",
+          "linkText": "Shop now",
+          "linkUrl": "#",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-e668/k2-_61e415c7-a00c-4a70-b420-ffe85465f918.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+          "status": "Active"
+        },
+        {
+          "id": 1,
+          "name": "",
+          "smallTitle": " Limited Time Offer\t",
+          "largeTitle": "Save Up to 50%\t",
+          "linkText": "Shop Deals",
+          "linkUrl": "#",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-69cf/k2-_2f4a763b-e958-4719-8687-74b437a28180.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+          "status": "Active"
+        },
+        {
+          "id": 2,
+          "name": "Bottom Right Banner",
+          "smallTitle": "Featured",
+          "largeTitle": "Great deals",
+          "linkText": "Shop now",
+          "linkUrl": "#",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-316e/k2-_931105da-af04-4ea6-9882-e0c74efdb1d5.v1.jpg?odnHeight=298&odnWidth=276&odnBg=&odnDynImageQuality=70",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Mobile Small Group 2",
+      "banners": [
+        {
+          "id": 0,
+          "name": "Left Banner",
+          "smallTitle": "Featured",
+          "largeTitle": "Save more",
+          "linkText": "Shop now",
+          "linkUrl": "#",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-43d6/k2-_34f0f9b5-0486-40b9-8128-3c41b650d165.v1.jpg?odnHeight=508&odnWidth=276&odnBg=&odnDynImageQuality=70",
+          "status": "Active"
+        },
+        {
+          "id": 1,
+          "name": "Top Right Banner",
+          "smallTitle": "Featured",
+          "largeTitle": "Shop today",
+          "linkText": "Shop now",
+          "linkUrl": "#",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-c544/k2-_96c367c5-b2bb-4563-8c24-1d8289f92214.v1.jpg?odnHeight=368&odnWidth=552&odnBg=&odnDynImageQuality=70",
+          "status": "Active"
+        },
+        {
+          "id": 2,
+          "name": "Bottom Right Banner",
+          "smallTitle": "Featured",
+          "largeTitle": "Best offers",
+          "linkText": "Shop now",
+          "linkUrl": "#",
+          "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-832e/k2-_5c725f30-7e4a-4957-acde-6e088f64bf55.v1.jpg?odnHeight=596&odnWidth=552&odnBg=&odnDynImageQuality=70",
+          "status": "Active"
+        }
+      ]
+    }
+  ],
+  "mobileWideBanners": [
+    {
+      "name": "Mobile Wide Banner 1",
+      "smallTitle": "Featured picks",
+      "largeTitle": "Discover Great Deals",
+      "linkText": "Shop now",
+      "linkUrl": "#",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-9a7b/k2-_679ccb66-a670-460d-95d9-276d2ccb1286.v1.jpg?odnHeight=318&odnWidth=568&odnBg=&odnDynImageQuality=70",
+      "status": "Active",
+      "id": "1"
+    },
+    {
+      "name": "Mobile Wide Banner 2",
+      "smallTitle": "Special Offer",
+      "largeTitle": "Save More Today",
+      "linkText": "Explore",
+      "linkUrl": "#",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-e7fa/k2-_f4a25b6f-8410-41bf-b63e-9f0689279322.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "status": "Active",
+      "id": "2"
+    },
+    {
+      "name": "Mobile Wide Banner 3",
+      "smallTitle": "New Arrivals",
+      "largeTitle": "Shop What's New",
+      "linkText": "Shop now",
+      "linkUrl": "#",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-d716/k2-_93b5179e-dbaf-404a-bfb8-ca5854e731a8.v1.jpg?odnHeight=636&odnWidth=1136&odnBg=&odnDynImageQuality=70",
+      "status": "Active",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Mobile Wide Banner 4",
+      "smallTitle": "Limited Time",
+      "largeTitle": "Amazing Everyday Prices",
+      "linkText": "View deals",
+      "linkUrl": "#",
+      "image": "/images/mobile-wide/banner4.jpg",
+      "status": "Inactive"
+    }
+  ],
+  "users": [
+    {
+      "id": "2",
+      "firstName": "User",
+      "lastName": "Test",
+      "email": "user@gmail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "firstName": "zahra",
+      "lastName": "Naghipour",
+      "email": "zahra@gmail.com",
+      "password": "123456789",
+      "role": "user",
+      "id": "pMpepF7jVuI"
+    },
+    {
+      "firstName": "ZAHRA",
+      "lastName": "naghipour",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "id": "9pHiM0vvdAI"
+    },
+    {
+      "firstName": "زهرا",
+      "lastName": "پور",
+      "email": "admin1@gmail.com",
+      "password": "123456789",
+      "role": "admin",
+      "id": "vUddNBlSW4k"
+    },
+    {
+      "firstName": "زهرا",
+      "lastName": "پور",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "id": "5eMousbAEfA"
+    },
+    {
+      "firstName": "زهرا",
+      "lastName": "پور",
+      "email": "user2@gmail.com",
+      "password": "12345678",
+      "role": "user",
+      "id": "9scJrFT4qU8"
+    },
+    {
+      "firstName": "زهرا",
+      "lastName": "پور",
+      "email": "user3@gmail.com",
+      "password": "123456789",
+      "role": "user",
+      "id": "q78UFftg_V4"
+    },
+    {
+      "firstName": "زهرا",
+      "lastName": "پور",
+      "email": "admin4@gmail.com",
+      "password": "123456789",
+      "role": "user",
+      "id": "2jag3hL-bFM"
+    }
+  ],
+  "carts": [],
+  "orders": [
+    {
+      "userId": null,
+      "userEmail": "zahra.naghipour.70@gmail.com",
+      "orderNumber": "WM-1794578081282",
+      "date": "2026-11-13T13:54:41.282Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "1",
+          "title": "Wireless Earbuds",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0eedfb6d505bef9dfc8e0169b3bc1914a80aeba7_1790593771.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 630.54,
+          "quantity": 6
+        }
+      ],
+      "subtotal": 3783.24,
+      "tax": 302.6592,
+      "total": 4085.8992,
+      "id": "rfxH5u9UiaU"
+    },
+    {
+      "userId": null,
+      "userEmail": "zahra.naghipour.70@gmail.com",
+      "orderNumber": "WM-1794578335615",
+      "date": "2026-11-13T13:58:55.615Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 12
+        }
+      ],
+      "subtotal": 7688.980799999999,
+      "tax": 615.118464,
+      "total": 8304.099263999999,
+      "id": "hnA6UJFLdvs"
+    },
+    {
+      "userId": null,
+      "userEmail": "zahra.naghipour.70@gmail.com",
+      "orderNumber": "WM-1794578358861",
+      "date": "2026-11-13T13:59:18.861Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 1
+        },
+        {
+          "productId": "6",
+          "title": "Apple iPhone 17 Pro Max, 256GB, 12GB RAM",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+          "price": 75.57732,
+          "quantity": 1
+        },
+        {
+          "productId": "4",
+          "title": "Rechargeable Water Flosser VR4149 with 4 Tips",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f574b244c0535243e5aec4a647d3191c366e6132_1791737467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 399.28919999999994,
+          "quantity": 1
+        },
+        {
+          "productId": "2",
+          "title": "Nemo N36 Dual SIM Smartphone, 128GB Storage, 6GB RAM",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/8351c52f361b7d18e1b9be0f09d8237bb889ffe3_1791356209.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+          "price": 216.25019999999998,
+          "quantity": 1
+        },
+        {
+          "productId": "1",
+          "title": "Wireless Earbuds",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0eedfb6d505bef9dfc8e0169b3bc1914a80aeba7_1790593771.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 630.54,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1994.9335199999998,
+      "tax": 159.5946816,
+      "total": 2154.5282015999996,
+      "id": "nTHy8qgsOIE"
+    },
+    {
+      "userId": null,
+      "userEmail": "zahra.naghipour.70@gmail.com",
+      "orderNumber": "WM-1794578721556",
+      "date": "2026-11-13T14:05:21.556Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "4",
+          "title": "Rechargeable Water Flosser VR4149 with 4 Tips",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f574b244c0535243e5aec4a647d3191c366e6132_1791737467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 399.28919999999994,
+          "quantity": 1
+        },
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 1
+        },
+        {
+          "productId": "6",
+          "title": "Apple iPhone 17 Pro Max, 256GB, 12GB RAM",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+          "price": 75.57732,
+          "quantity": 1
+        },
+        {
+          "productId": "2",
+          "title": "Nemo N36 Dual SIM Smartphone, 128GB Storage, 6GB RAM",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/8351c52f361b7d18e1b9be0f09d8237bb889ffe3_1791356209.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+          "price": 216.25019999999998,
+          "quantity": 1
+        },
+        {
+          "productId": "1",
+          "title": "Wireless Earbuds",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0eedfb6d505bef9dfc8e0169b3bc1914a80aeba7_1790593771.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 630.54,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1994.9335199999998,
+      "tax": 159.5946816,
+      "total": 2154.5282015999996,
+      "id": "Pr28Kb6EOCY"
+    },
+    {
+      "userId": null,
+      "userEmail": "admin@gmail.com",
+      "orderNumber": "WM-1794578938913",
+      "date": "2026-11-13T14:08:58.913Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 1
+        },
+        {
+          "productId": "2",
+          "title": "Nemo N36 Dual SIM Smartphone, 128GB Storage, 6GB RAM",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/8351c52f361b7d18e1b9be0f09d8237bb889ffe3_1791356209.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/format,webp/quality,q_90",
+          "price": 216.25019999999998,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 856.9985999999999,
+      "tax": 68.55988799999999,
+      "total": 925.5584879999999,
+      "id": "QwodH-ZRrMg"
+    },
+    {
+      "userId": null,
+      "userEmail": "admin@gmail.com",
+      "orderNumber": "WM-1794579133274",
+      "date": "2026-11-13T14:12:13.274Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "7",
+          "title": "Car Parking Phone Number Display",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/114593375.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80/format,webp",
+          "price": 18.7824,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 18.7824,
+      "tax": 1.502592,
+      "total": 20.284992,
+      "id": "NCJlFKP7BL4"
+    },
+    {
+      "userId": null,
+      "userEmail": "zahra.naghipour.70@gmail.com",
+      "orderNumber": "WM-1794778241894",
+      "date": "2026-11-15T21:30:41.894Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 4
+        },
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 3
+        },
+        {
+          "productId": "4",
+          "title": "Rechargeable Water Flosser VR4149 with 4 Tips",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f574b244c0535243e5aec4a647d3191c366e6132_1791737467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 399.28919999999994,
+          "quantity": 1
+        },
+        {
+          "productId": "7",
+          "title": "Car Parking Phone Number Display",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/114593375.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80/format,webp",
+          "price": 18.7824,
+          "quantity": 1
+        },
+        {
+          "productId": "1",
+          "title": "Wireless Earbuds",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0eedfb6d505bef9dfc8e0169b3bc1914a80aeba7_1790593771.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 630.54,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 5663.964,
+      "tax": 453.11712,
+      "total": 6117.08112,
+      "id": "lcrqbnygYdo"
+    },
+    {
+      "userId": null,
+      "userEmail": "zahra.naghipour.70@gmail.com",
+      "orderNumber": "WM-1794778600380",
+      "date": "2026-11-15T21:36:40.380Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "10",
+          "title": "DeFacto Women's Knit Cardigan",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/27b1884f47d950c413c37d1d9f8839ebc256a5f1_1786885051.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+          "price": 417.366,
+          "quantity": 6
+        },
+        {
+          "productId": "9",
+          "title": "Sarzi Men's Jacket BB-2024",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/8b2999b36a69c7b078d0f08afedea0bb29a209b4_1787752385.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+          "price": 458.4629,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 2962.6589,
+      "tax": 237.012712,
+      "total": 3199.671612,
+      "id": "-_H6mQcpdDs"
+    },
+    {
+      "userId": "2",
+      "userEmail": "user@gmail.com",
+      "orderNumber": "WM-1794848503514",
+      "date": "2026-11-16T17:01:43.514Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 1
+        },
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 1
+        },
+        {
+          "productId": "9",
+          "title": "Sarzi Men's Jacket BB-2024",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/8b2999b36a69c7b078d0f08afedea0bb29a209b4_1787752385.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+          "price": 458.4629,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1772.4881,
+      "tax": 141.799048,
+      "total": 1914.2871480000001,
+      "id": "ueWgWpO-UwM"
+    },
+    {
+      "userId": "2",
+      "userEmail": "user@gmail.com",
+      "orderNumber": "WM-1794996684864",
+      "date": "2026-11-18T10:11:24.864Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 1281.4968,
+      "tax": 102.51974399999999,
+      "total": 1384.0165439999998,
+      "id": "RNLzfveLx8U"
+    },
+    {
+      "userId": "2",
+      "userEmail": "user@gmail.com",
+      "orderNumber": "WM-1795001217629",
+      "date": "2026-11-18T11:26:57.629Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 1
+        },
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1314.0252,
+      "tax": 105.122016,
+      "total": 1419.147216,
+      "id": "02ukOHafgKw"
+    },
+    {
+      "userId": "2",
+      "userEmail": "user@gmail.com",
+      "orderNumber": "WM-1795124671977",
+      "date": "2026-11-19T21:44:31.977Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 6
+        },
+        {
+          "productId": "14",
+          "title": "Callista Extend Volume Mascara",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/6e9fc5f500d4cbe714825b963cb0305d291b73c3_1635866190.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 128.11679999999998,
+          "quantity": 7
+        }
+      ],
+      "subtotal": 4936.4784,
+      "tax": 394.918272,
+      "total": 5331.396672,
+      "id": "_MOowbPmOEM"
+    },
+    {
+      "userId": "9pHiM0vvdAI",
+      "userEmail": "admin@gmail.com",
+      "orderNumber": "WM-1795280171718",
+      "date": "2026-11-21T16:56:11.718Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 673.2768,
+      "tax": 53.862144,
+      "total": 727.138944,
+      "id": "u-TP3g47XAA"
+    },
+    {
+      "userId": "9pHiM0vvdAI",
+      "userEmail": "admin@gmail.com",
+      "orderNumber": "WM-1795280203794",
+      "date": "2026-11-21T16:56:43.794Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "10",
+          "title": "DeFacto Women's Knit Cardigan",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/27b1884f47d950c413c37d1d9f8839ebc256a5f1_1786885051.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+          "price": 417.366,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 417.366,
+      "tax": 33.38928,
+      "total": 450.75527999999997,
+      "id": "SUbRsqIHDGI"
+    },
+    {
+      "userId": "2",
+      "userEmail": "user@gmail.com",
+      "orderNumber": "WM-1795303839716",
+      "date": "2026-11-21T23:30:39.716Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "10",
+          "title": "DeFacto Women's Knit Cardigan",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/27b1884f47d950c413c37d1d9f8839ebc256a5f1_1786885051.jpg?x-oss-process=image/resize,m_lfit,h_400,w_400/quality,q_80",
+          "price": 417.366,
+          "quantity": 1
+        },
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1058.1144,
+      "tax": 84.649152,
+      "total": 1142.763552,
+      "id": "80MngNB55Bw"
+    },
+    {
+      "userId": "9pHiM0vvdAI",
+      "userEmail": "admin@gmail.com",
+      "orderNumber": "WM-1795304263918",
+      "date": "2026-11-21T23:37:43.918Z",
+      "status": "Processing",
+      "products": [
+        {
+          "productId": "3",
+          "title": "IMIKI TG1 Smartwatch",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/31d7734d47a86a2719b4fce6260a90b0d01b129e_1754248138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": 640.7484,
+          "quantity": 1
+        },
+        {
+          "productId": "5",
+          "title": "LECO WS215DM Wireless Mouse",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f4195d323753c4001cd967846f9af0918e53c3da_1728761600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": 673.2768,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1314.0252,
+      "tax": 105.122016,
+      "total": 1419.147216,
+      "id": "5mKNaPdmwdw"
+    }
+  ],
+  "hero": [
+    {
+      "id": "1",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-c88b/k2-_f0ea9ced-4dd6-4f38-bfa4-438bc3488c17.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "subtitle": "Discover What's New",
+      "title": "Refresh Your Everyday",
+      "link": "/shop",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": "2",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-b5e6/k2-_cedabe79-14fd-4694-8055-2da13072e841.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "subtitle": "Special Offers",
+      "title": "Find Your Favorites",
+      "link": "/products",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": "3",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-baff/k2-_95a7e322-68d3-41dd-ac77-7779da222684.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "subtitle": "Explore More",
+      "title": "Make Every Day Better",
+      "link": "/categories",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": "4",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-1433/k2-_a36067ee-1df6-4a6e-bdc5-df5a92335abe.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "subtitle": "New Arrivals",
+      "title": "Style Your Home",
+      "link": "/shop",
+      "buttonText": "Shop Now"
+    }
+  ],
+  "MobileHero": [
+    {
+      "id": "2",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-b5e6/k2-_cedabe79-14fd-4694-8055-2da13072e841.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "subtitle": "Special Offers",
+      "title": "Find Your Favorites",
+      "link": "/products",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": "3",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-baff/k2-_95a7e322-68d3-41dd-ac77-7779da222684.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "subtitle": "Explore More",
+      "title": "Make Every Day Better",
+      "link": "/categories",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": "4",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-1433/k2-_a36067ee-1df6-4a6e-bdc5-df5a92335abe.v1.jpg?odnHeight=591&odnWidth=444&odnBg=&odnDynImageQuality=70",
+      "subtitle": "New Arrivals",
+      "title": "Style Your Home",
+      "link": "/shop",
+      "buttonText": "Shop Now"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
